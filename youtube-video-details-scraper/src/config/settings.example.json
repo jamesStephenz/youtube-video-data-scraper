@@ -1,0 +1,5 @@
+{
+    "api_key": "your-api-key-here",
+    "output_directory": "./data",
+    "log_level": "INFO"
+}
